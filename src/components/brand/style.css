@@ -1,0 +1,35 @@
+.brand-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    font-family: 'Roboto',sans-serif;
+}
+
+.brand-title {
+    font-size: 1.602rem;
+    font-weight: 700;
+    color: #FFFFFF;
+    line-height: 145%;
+    margin-bottom: 20px;
+}
+
+.brand-content {
+    font-size: 1rem;
+    line-height: 145%;
+    margin-bottom: 20px;
+}
+
+.btn-brand {
+    font-weight: 700;
+    font-size: 14px;
+    padding: 8px 14px;
+    background-color: #0F72E5;
+}
+
+.btn-brand:hover {
+    background-color: #1d7ff0;
+    box-shadow: 0 0 16px rgb(29 127 240 / 60%);
+    outline: 0;
+}

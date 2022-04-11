@@ -1,6 +1,8 @@
 .about-container {
     margin-top: 550px;
     color: white !important;
+    background: url(./img/bg.svg) no-repeat top center;
+    background-size: 2560px 1680px;
 }
 
 .comp {
@@ -9,6 +11,41 @@
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+}
+
+.body-copy {
+    font-family: 'Roboto',sans-serif;
+    font-weight: 400;
+    color: #C9CDD1;
+    font-size: 1rem;
+    line-height: 145%;
+    margin: 20px 0 30px;
+}
+
+.body-copy-strong {
+    font-family: 'Roboto',sans-serif;
+    font-weight: 400;
+    color: #FFFFFF;
+    font-size: 1rem;
+    line-height: 145%;
+    margin-bottom: 20px;
+}
+
+.body-copy-small {
+    font-family: 'Roboto',sans-serif;
+    font-weight: 400;
+    color: #C9CDD1;
+    font-size: .702rem;
+    line-height: 145%;
+}
+
+.body-copy-large {
+    font-size: 1.266rem;
+}
+
+.body-copy-weight {
+    font-weight: 700;
+    color: white;
 }
 
 hr {

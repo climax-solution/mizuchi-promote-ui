@@ -5,7 +5,7 @@ const parallax = [
     {
         'class': "layer-floor",
         'effect' : {
-            scaleY: [-1, 1]
+            scaleY: [1, -1]
         }
     },
     {
@@ -49,6 +49,9 @@ export default function SliderParallax() {
                         className={`parallax ${item.class}`}
                         key={idx}
                         {...item.effect}
+                        startScroll={0}
+                        endScroll={900}
+                        speed={5}
                     />
                 ))
             }

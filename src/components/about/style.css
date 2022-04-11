@@ -1,0 +1,22 @@
+.about-container {
+    margin-top: 550px;
+    color: white !important;
+}
+
+.comp {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+hr {
+    height: 2px !important;
+    background-image: -webkit-gradient(linear, left top, right top, from(#0ca8e1), to(#005f96));
+    background-image: -webkit-linear-gradient(left, #0ca8e1 0%, #005f96 100%);
+    background-image: -o-linear-gradient(left, #0ca8e1 0%, #005f96 100%);
+    background-image: linear-gradient(to right, #0ca8e1 0%, #005f96 100%);
+    width: 64px;
+}
+

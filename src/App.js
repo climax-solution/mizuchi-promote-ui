@@ -1,11 +1,21 @@
 import Brand from './components/brand';
 import SliderParallax from './components/parallax';
+import 'aos/dist/aos.css';
+import { useEffect } from 'react';
+import AOS from 'aos';
+import About from './components/about';
 
 function App() {
+
+  useEffect(() => {
+    AOS.init();
+  },[])
+
   return (
     <div className="App">
-      <Brand/>
       <SliderParallax/>
+      <Brand/>
+      <About/>
     </div>
   );
 }

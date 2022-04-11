@@ -3,7 +3,12 @@ import "./style.css";
 
 export default function Brand() {
     return (
-        <div className="brand-container">
+        <div
+            className="brand-container"
+            data-aos="fade-up"
+            data-aos-anchor-placement="top-center"
+            data-aos-duration="2000"
+        >
             <div className="logo">
                 <img src={brandLogo} alt=""/>
             </div>

@@ -1,4 +1,5 @@
 import { Parallax } from "react-scroll-parallax";
+import "./style.css";
 
 const parallax = [
     {

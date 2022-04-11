@@ -5,7 +5,7 @@ export default function Comp4() {
                 className="ripplex"
                 data-aos="fade-up"
                 data-aos-anchor-placement="top-center"
-                data-aos-duration="1000"
+                data-aos-duration="3000"
             >
                 <div className="row justify-content-center">
                     <div className="col-sm-2"></div>
@@ -34,7 +34,7 @@ export default function Comp4() {
                 className="text-center"
                 data-aos="fade-up"
                 data-aos-anchor-placement="top-center"
-                data-aos-duration="1000"
+                data-aos-duration="3000"
             >
                 <h5>
                     XRP and the XRP Ledger are open-source technology that<br/> anyone can build on. To get started, learn more at<br/>

@@ -5,7 +5,7 @@ export default function Comp7() {
                 className="text-center"
                 data-aos="fade-up"
                 data-aos-anchor-placement="top-center"
-                data-aos-duration="1000"
+                data-aos-duration="3000"
             >
                 <h2>XRP Metrics</h2>
                 <hr/>
@@ -19,7 +19,7 @@ export default function Comp7() {
                 className="text-center row"
                 data-aos="fade-up"
                 data-aos-anchor-placement="top-center"
-                data-aos-duration="1000"
+                data-aos-duration="3000"
             >
                 <div className="col-sm-12">
                     <div className="col-sm-4 col-12">
@@ -48,7 +48,7 @@ export default function Comp7() {
                 className="text-center"
                 data-aos="fade-up"
                 data-aos-anchor-placement="top-center"
-                data-aos-duration="1000"
+                data-aos-duration="3000"
             >
                 <button className="btn btn-primary">More XRP Market Metrics</button>
             </div>

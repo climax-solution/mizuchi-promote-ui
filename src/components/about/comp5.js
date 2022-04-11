@@ -5,7 +5,7 @@ export default function Comp5() {
                 className="text-center"
                 data-aos="fade-up"
                 data-aos-anchor-placement="top-center"
-                data-aos-duration="1000"
+                data-aos-duration="3000"
             >
                 <h2>How Does the XRP Ledger Work?</h2>
                 <hr/>

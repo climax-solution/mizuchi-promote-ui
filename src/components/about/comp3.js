@@ -4,7 +4,7 @@ export default function Comp3() {
             className="comp"
             data-aos="fade-up"
             data-aos-anchor-placement="top-center"
-            data-aos-duration="1000"
+            data-aos-duration="3000"
         >
             <div className="row justify-content-center">
                 <div className="col-sm-1 hidden-sm"></div>

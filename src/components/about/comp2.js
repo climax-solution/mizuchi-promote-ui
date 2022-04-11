@@ -4,14 +4,14 @@ export default function Comp2() {
             className="comp"
             data-aos="fade-up"
             data-aos-anchor-placement="top-center"
-            data-aos-duration="1000"
+            data-aos-duration="3000"
             style={{ marginBottom: "80px"}}
         >
             <div
                 className="comp"
                 data-aos="fade-up"
                 data-aos-anchor-placement="top-center"
-                data-aos-duration="1000"
+                data-aos-duration="3000"
             >
                 <h3 className="text-center">How Is XRP Used?</h3>
                 <hr/>

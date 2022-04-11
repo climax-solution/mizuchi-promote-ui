@@ -5,7 +5,7 @@ export default function Comp6() {
                 className="text-center"
                 data-aos="fade-up"
                 data-aos-anchor-placement="top-center"
-                data-aos-duration="1000"
+                data-aos-duration="3000"
             >
                 <h1>Benefits of XRP in Payments</h1>
                 <hr/>
@@ -19,7 +19,7 @@ export default function Comp6() {
                 className="row"
                 data-aos="fade-up"
                 data-aos-anchor-placement="top-center"
-                data-aos-duration="1000"
+                data-aos-duration="3000"
             >
                 <div className="col-sm-12">
                     <div className="col-sm-1 hidden-sm"></div>
@@ -44,7 +44,7 @@ export default function Comp6() {
                 className="row"
                 data-aos="fade-up"
                 data-aos-anchor-placement="top-center"
-                data-aos-duration="1000"
+                data-aos-duration="3000"
             >
                 <div className="col-sm-12">
                     <div className="hidden-sm col-sm-1"></div>
@@ -73,7 +73,7 @@ export default function Comp6() {
                 className="row"
                 data-aos="fade-up"
                 data-aos-anchor-placement="top-center"
-                data-aos-duration="1000"
+                data-aos-duration="3000"
             >
                 <div className="col-sm-12">
                     <div className="col-sm-1 hidden-sm"></div>
@@ -100,7 +100,7 @@ export default function Comp6() {
                 className="row"
                 data-aos="fade-up"
                 data-aos-anchor-placement="top-center"
-                data-aos-duration="1000"
+                data-aos-duration="3000"
             >
                 <div className="col-sm-12">
                     <div className="col-sm-1 col-md-1 hidden-sm"></div>
@@ -123,7 +123,7 @@ export default function Comp6() {
                 className="row"
                 data-aos="fade-up"
                 data-aos-anchor-placement="top-center"
-                data-aos-duration="1000"
+                data-aos-duration="3000"
             >
                 <div className="col-sm-12">
                     <div className="hidden-sm col-md-1"></div>

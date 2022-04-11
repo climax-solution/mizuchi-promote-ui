@@ -4,7 +4,7 @@ export default function Comp1() {
             className="comp"
             data-aos="fade-up"
             data-aos-anchor-placement="top-center"
-            data-aos-duration="1000"
+            data-aos-duration="3000"
             style={{ marginBottom: "80px"}}
         >
             <h3 className="text-center">What Is XRP?</h3>

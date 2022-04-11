@@ -2,6 +2,9 @@ export default function Comp2() {
     return (
         <div
             className="comp"
+            data-aos="fade-up"
+            data-aos-anchor-placement="top-center"
+            data-aos-duration="1000"
         >
             <div
                 className="comp"

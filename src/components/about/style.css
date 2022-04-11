@@ -20,6 +20,11 @@ hr {
     width: 64px;
 }
 
+.ripplenet-wrapper {
+    position: relative;
+    height: 276px;
+}
+
 .ripple-net {
     background-image: url(./img/ripplenet-bg@2x.png);
     width: 100%;
@@ -33,4 +38,69 @@ hr {
     -ms-transform: scale(2.63);
     -o-transform: scale(2.63);
     transform: scale(2.63);
+}
+
+.settlement-img {
+    max-width: 397px;
+}
+
+.scalable-bg-wrapper {
+    height: 242px;
+    position: relative;
+}
+
+.scalable-bg {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-image: url(./img/scalable@2x.png);
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    background-size: contain;
+    background-position: center;
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.distributed-bg-wrapper {
+    height: 292px;
+    position: relative;
+}
+
+.distributed-bg {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-image: url(./img/distributed@2x.gif);
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    background-size: contain;
+    background-position: center;
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.eco-friendly-bg-wrapper {
+    height: 143px;
+    position: relative;
+}
+
+.eco-friendly-bg {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-image: url(./img/eco-friendly-bg@2x.png);
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    background-size: contain;
+    background-position: center;
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    transform: scale(1.1);
+    left: -5%;
 }

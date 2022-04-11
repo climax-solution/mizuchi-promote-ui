@@ -1,15 +1,22 @@
 export default function Comp3() {
     return (
         <div
+            className="comp"
+            data-aos="fade-up"
+            data-aos-anchor-placement="top-center"
+            data-aos-duration="1000"
         >
-            <div className="row">
-                <div className="col-md-6 col-12">
+            <div className="row justify-content-center">
+                <div className="col-sm-1 hidden-sm"></div>
+                <div className="col-sm-5">
                     <h1>RippleNet</h1>
                     <p>RippleNet customers can use XRP for sourcing liquidity in cross-border transactions, instead of pre-funding—ensuring instant settlement, lower exchange fees and more efficient use of working capital.</p>
                     <button className="btn btn-primary">Leran About RippleNet</button>
                 </div>
-                <div className="col-md-6 col-12 position-relative">
-                    <div className="ripple-net"></div>
+                <div className="col-sm-6">
+                    <div className="ripplenet-wrapper">
+                        <div className="ripple-net"></div>
+                    </div>
                 </div>
             </div>
         </div>

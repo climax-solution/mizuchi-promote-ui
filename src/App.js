@@ -12,7 +12,7 @@ function App() {
   },[])
 
   return (
-    <div className="App">
+    <div className="main-content">
       <SliderParallax/>
       <Brand/>
       <About/>

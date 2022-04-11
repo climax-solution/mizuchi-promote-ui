@@ -18,6 +18,12 @@ hr {
     background-image: -o-linear-gradient(left, #0ca8e1 0%, #005f96 100%);
     background-image: linear-gradient(to right, #0ca8e1 0%, #005f96 100%);
     width: 64px;
+    margin: 20px auto 30px;
+}
+
+hr.small {
+    margin: 5px 0 10px;
+    max-width: 20px;
 }
 
 .ripplenet-wrapper {

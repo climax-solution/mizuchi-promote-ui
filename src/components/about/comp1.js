@@ -5,6 +5,7 @@ export default function Comp1() {
             data-aos="fade-up"
             data-aos-anchor-placement="top-center"
             data-aos-duration="1000"
+            style={{ marginBottom: "80px"}}
         >
             <h3 className="text-center">What Is XRP?</h3>
             <hr/>

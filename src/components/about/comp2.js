@@ -5,6 +5,7 @@ export default function Comp2() {
             data-aos="fade-up"
             data-aos-anchor-placement="top-center"
             data-aos-duration="1000"
+            style={{ marginBottom: "80px"}}
         >
             <div
                 className="comp"

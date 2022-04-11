@@ -20,6 +20,16 @@ export default function Comp4() {
                     <div className="col-sm-1"></div>
                 </div>
             </div>
+            <div className="row">
+                <div className="col-sm-12">
+                    <div className="visible-xs-block">
+                        <div className="blank_divider" style={{"height": "50px"}}></div>
+                    </div>
+                    <div className="hidden-xs">
+                        <div className="blank_divider" style={{"height": "200px"}}></div>
+                    </div>
+                </div>
+            </div>
             <div
                 className="text-center"
                 data-aos="fade-up"
@@ -31,6 +41,11 @@ export default function Comp4() {
                     XRPL.org.
                 </h5>
                 <button className="btn btn-primary">Build with XRPL</button>
+            </div>
+            <div className="row">
+                <div className="col-sm-12">
+                    <div className="blank_divider" style={{"height": "115px"}}></div>
+                </div>
             </div>
         </>
     )

@@ -13,7 +13,17 @@ export default function About() {
             <div className="container">
                 <Comp1/>
                 <Comp2/>
+                <div className="row">
+                    <div className="col-sm-12">
+                        <div className="blank_divider" style={{"height": "120px"}}></div>
+                    </div>
+                </div>
                 <Comp3/>
+                <div className="row">
+                    <div className="col-sm-12">
+                        <div className="blank_divider" style={{"height": "220px"}}></div>
+                    </div>
+                </div>
                 <Comp4/>
                 <Comp5/>
                 <Comp6/>

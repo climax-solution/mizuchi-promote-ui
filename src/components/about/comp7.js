@@ -10,6 +10,11 @@ export default function Comp7() {
                 <h2>XRP Metrics</h2>
                 <hr/>
             </div>
+            <div className="row">
+                <div className="col-sm-12">
+                    <div className="blank_divider" style={{"height": "40px"}}></div>
+                </div>
+            </div>
             <div
                 className="text-center row"
                 data-aos="fade-up"
@@ -34,6 +39,11 @@ export default function Comp7() {
                     </div>
                 </div>
             </div>
+            <div className="row">
+                <div className="col-sm-12">
+                    <div className="blank_divider" style={{"height": "90px"}}></div>
+                </div>
+            </div>
             <div
                 className="text-center"
                 data-aos="fade-up"
@@ -41,6 +51,11 @@ export default function Comp7() {
                 data-aos-duration="1000"
             >
                 <button className="btn btn-primary">More XRP Market Metrics</button>
+            </div>
+            <div className="row">
+                <div className="col-sm-12">
+                    <div className="blank_divider" style={{"height": "165px"}}></div>
+                </div>
             </div>
         </>
     )
